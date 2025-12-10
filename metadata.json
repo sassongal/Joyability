@@ -1,0 +1,7 @@
+{
+  "name": "Joyability",
+  "description": "The ultimate bilingual productivity companion. Features smart keyboard layout fixing, professional call transcription, image editing, and conversational AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
